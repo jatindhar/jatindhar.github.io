@@ -27,12 +27,6 @@ section{
   font-size: 20px;
 }
 
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: RoyalBlue;
-}
-
-
 .section-1 {
 	background: #063647;
 }
