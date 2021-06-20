@@ -16,6 +16,21 @@ section{
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 }
+/* Style buttons */
+.btn {
+  background-color: #34282C;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
 
 .section-1 {
 	background: #063647;
